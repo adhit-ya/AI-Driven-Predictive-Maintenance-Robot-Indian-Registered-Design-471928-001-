@@ -69,5 +69,3 @@ If referencing this design:
 
 ---
 
-## Contact
-For licensing, research, or collaboration, please open an issue or contact the repository owner.
